@@ -1,0 +1,45 @@
+
+span{
+  background-color: red;
+  height: 100px;
+  width:100px;
+}
+
+p{
+  background-color: blue;
+}
+
+.p1{
+  display: inline
+}
+
+.p2{
+  display: inline-block;
+  height: 100px;
+  width:100px;
+}
+
+.s1{
+  display: none;
+}
+
+.red{
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+
+.green{
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
+
+.blue{
+  background-color: blue;
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+}

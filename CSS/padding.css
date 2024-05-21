@@ -1,0 +1,42 @@
+.red{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  border-style: solid;
+    border-width: 10px;
+    padding: 50px 0 0 50px;
+}
+
+.blue{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  margin-left: 270px;
+  border-style: solid;
+  border-width: 20px;
+  padding: 50px 0 0 50px;
+}
+
+.green{
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  margin-left: 560px;
+  border-style: solid;
+  border-width: 15px;
+  padding: 50px 0 0 50px;
+}
+
+h1{
+  margin-top: 0;
+}
+
+h3{
+  display: inline;
+}
+
+img{
+
+  background-color: red;
+  display: block;
+}

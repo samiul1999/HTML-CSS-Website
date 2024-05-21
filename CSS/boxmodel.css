@@ -1,0 +1,22 @@
+.red-box{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+.green-box{
+  height: 200px;
+  width:  200px;
+  background-color: green;
+  margin-left: 200px;
+}
+
+.yellow-box{
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  margin-left: 400px;
+  border-style: solid dotted  none dashed;
+  border-width: 10px;
+
+}
